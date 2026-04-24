@@ -675,7 +675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fuerzaEmpuje: 25
-  velocidadMax: 30
+  velocidadMax: 1
   sensibilidadGiro: 20
   lineaUI: {fileID: 0}
 --- !u!1 &666752272
